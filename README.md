@@ -1,12 +1,12 @@
 # Hi there, I'm Oliver! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner Image]((https://pixabay.com/images/search/wild%20animals/))
 
 ## About Me 🚀
 
-I'm a passionate **[Student]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Student** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
+- 🌱 Currently learning: **Python**
 - 🔭 Working on: **[current projects or side-projects]**
 - 🌍 Languages: **[programming languages and human languages you speak]**
 - 📫 How to reach me: **[your email address or other contact information]**
